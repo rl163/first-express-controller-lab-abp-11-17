@@ -11,7 +11,7 @@ app("/contact", SiteController.Contact)
 app("/photos", PhotosController.Index)
 app("/photos/:id", PhotosController.Show)
 app("/photos/new", PhotosController.New)
-app("/photos/create". PhotosController.Create)
+app("/photos/create", PhotosController.Create)
 
 
 module.exports = app
