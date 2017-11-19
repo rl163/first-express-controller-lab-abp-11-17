@@ -8,7 +8,7 @@ PhotosController.Show = function(req,resp){
 
 }
 
-PhotosController.Create = function(req,resp){
+PhotosController.New = function(req,resp){
 
 }
 
