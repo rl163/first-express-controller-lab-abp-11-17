@@ -12,7 +12,7 @@ PhotosController.New = function(req,resp){
 
 }
 
-PhotosController.Delete = function(req,resp){
+PhotosController.Create = function(req,resp){
 
 }
 
